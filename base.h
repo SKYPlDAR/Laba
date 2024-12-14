@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-typedef struct 
+typedef struct stroytovary
 {
     char name[20];
     float price;
